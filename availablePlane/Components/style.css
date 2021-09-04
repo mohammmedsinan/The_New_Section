@@ -1,0 +1,35 @@
+.ant-empty-description {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+}
+
+.ant-modal-wrap-rtl .ant-modal-footer {
+  display: flex;
+  padding: 20px 15px;
+}
+
+.ant-card-body {
+  padding: 0px;
+}
+
+.ant-modal-body {
+  padding: 0px;
+}
+
+.ant-modal {
+  top: 70px !important;
+}
+
+.ant-table-rtl {
+  direction: ltr !important;
+}
+
+.ant-popover-rtl {
+  z-index: 10;
+}
+
+.ant-modal-close-x {
+  display: none;
+}
